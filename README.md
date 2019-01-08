@@ -1,4 +1,4 @@
-# collection
+# D3 Collections
 
 ## Project setup
 ```
